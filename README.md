@@ -1,6 +1,6 @@
 # CS61A Fall 2022
 
-Welcome to the CS61A Fall 2022 repository! This repository contains my implementations of the homework, labs, and projects for the CS61A course offered in Fall 2022. The course focuses on the principles of computer science using Python, and this repository serves as a record of my learning journey and progress throughout the semester.
+Welcome to the CS61A Fall 2022 repository! This repository contains my implementations of the homework, labs, and projects for the CS61A course offered in Fall 2022. The course focuses on the principles of computer science using Python, Scheme, and SQL, and this repository serves as a record of my learning journey and progress throughout the semester.
 
 ## Repository Structure
 
@@ -9,6 +9,7 @@ The repository is organized into the following directories:
 - `homework/`: Contains all the homework assignments.
 - `labs/`: Contains all the lab exercises.
 - `projects/`: Contains all the course projects.
+- `textbook/`: Contains the course reading materials.
 
 Each directory is further organized by the assignment or project number.
 
